@@ -7,5 +7,7 @@ public static void main(String[] args) {
 	System.out.println("abi");
 	System.out.println("reena");
 	System.out.println("stella");	
+	System.out.println("Java");	
+	System.out.println("selenium");	
 }
 }
